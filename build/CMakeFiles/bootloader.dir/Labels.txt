@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/shivankvishvanathan/Downloads/WIFI2/build/CMakeFiles/bootloader
+/Users/shivankvishvanathan/Downloads/WIFI2/build/CMakeFiles/bootloader.rule
+/Users/shivankvishvanathan/Downloads/WIFI2/build/CMakeFiles/bootloader-complete.rule
+/Users/shivankvishvanathan/Downloads/WIFI2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/shivankvishvanathan/Downloads/WIFI2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/shivankvishvanathan/Downloads/WIFI2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/shivankvishvanathan/Downloads/WIFI2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/shivankvishvanathan/Downloads/WIFI2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/shivankvishvanathan/Downloads/WIFI2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/shivankvishvanathan/Downloads/WIFI2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
